@@ -17,7 +17,7 @@ class Config(object):
 
     API_ID = 1310191  # integer value, dont use ""
     API_HASH = "40438602d2c66851baff5eb4dc5b08bc"
-    TOKEN = "BOT_TOKEN"
+    TOKEN = "1036219889:AAER5umjdx1tcCb5oXdooNOZ68g2EKEokBM"
     OWNER_ID = 978048105  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "Cyber_Ryuk"
     SUPPORT_CHAT = '@Cyber_Movies'
