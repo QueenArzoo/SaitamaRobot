@@ -15,12 +15,12 @@ class Config(object):
     # REQUIRED
     #Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 123456  # integer value, dont use ""
-    API_HASH = "awoo"
+    API_ID = 1310191  # integer value, dont use ""
+    API_HASH = "40438602d2c66851baff5eb4dc5b08bc"
     TOKEN = "BOT_TOKEN"
-    OWNER_ID = 792109647  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "Sawada"
-    SUPPORT_CHAT = '@OnePunchSupport'
+    OWNER_ID = 978048105  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "Cyber_Ryuk"
+    SUPPORT_CHAT = '@Cyber_Movies'
 
     #RECOMMENDED
 
@@ -32,7 +32,7 @@ class Config(object):
     WEBHOOK = False
     URL = None
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
-    SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
+    SPAMWATCH_SUPPORT_CHAT = "@Cyber_Movies"
 
     #OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
@@ -50,11 +50,11 @@ class Config(object):
     DEL_CMDS = True  #Delete commands that users dont have access to, like delete /ban if a non admin uses it.
     STRICT_GBAN = True
     WORKERS = 8  # Number of subthreads to use. Set as number of threads your processor uses
-    BAN_STICKER = ''  # banhammer marie sticker id, the bot will send this sticker before banning or kicking a user in chat.
+    BAN_STICKER = 'CAADAgADOwADPPEcAXkko5EB3YGYAg'  # banhammer marie sticker id, the bot will send this sticker before banning or kicking a user in chat.
     ALLOW_EXCL = True  # Allow ! commands as well as / (Leave this to true so that blacklist can work)
     CASH_API_KEY = 'awoo'
     TIME_API_KEY = 'awoo'
-    WALL_API = 'awoo'  #For wallpapers, get one from https://wall.alphacoders.com/api.php
+    WALL_API = 'c0de5068cc4c45d6a94a020642fb2f1f'  #For wallpapers, get one from https://wall.alphacoders.com/api.php
     AI_API_KEY = 'awoo'  #For chatbot, get one from https://coffeehouse.intellivoid.net/dashboard
     BL_CHATS = []  # List of groups that you want blacklisted.
     SPAMMERS = None
