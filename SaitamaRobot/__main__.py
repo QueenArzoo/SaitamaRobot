@@ -22,21 +22,11 @@ from telegram.utils.helpers import escape_markdown
 
 PM_START_TEXT = """
 
-┈┈┈┈╱▔▔▔▔╲┈┈┈┈
-┈┈┈▕▕╲┊┊╱▏▏┈┈┈
-┈┈┈▕▕▂╱╲▂▏▏┈┈┈
-┈┈┈┈╲┊┊┊┊╱┈┈┈┈
-┈┈┈┈▕╲▂▂╱▏┈┈┈┈
-╱▔▔▔▔┊┊┊┊▔▔▔▔╲
 Hello {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+im a group manager bot maintained by  [this person](t.me/Arzoo_Official).
 
-My future updates will be put into This Channel - @UPSTOCKWORLD & My Support Group @Eaglehacker.
-
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/Shiv9711/Shizuka.git),
-you can create clone same like me..
-
+My future updates will be put into This Channel - @UPSTOCKWORLD & My Support Group @Tinder_Queens .
 
 For more commands click /help...
 
@@ -68,9 +58,8 @@ And the following:
 SAITAMA_IMG = "https://images2.alphacoders.com/275/275372.png"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Saitama is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, Paul
-There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
