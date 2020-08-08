@@ -36,8 +36,6 @@ For more commands click /help...
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a Hero For Fun and help admins manage their groups with One Punch! Have a look at the following for an idea of some of \
-the things I can help you with.
 
 *Main* commands available:
  • /start: start the bot
@@ -163,7 +161,7 @@ def start(update: Update, context: CallbackContext):
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup([[
                     InlineKeyboardButton(
-                        text="Add Saitama to your group",
+                        text="Add Jassica to your group",
                         url="t.me/{}?startgroup=true".format(
                             context.bot.username))
                 ]]))
