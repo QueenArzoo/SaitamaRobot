@@ -15,24 +15,24 @@ class Config(object):
     # REQUIRED
     #Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 1310191  # integer value, dont use ""
-    API_HASH = "40438602d2c66851baff5eb4dc5b08bc"
-    TOKEN = "1036219889:AAER5umjdx1tcCb5oXdooNOZ68g2EKEokBM"
+    API_ID = 1272115  # integer value, dont use ""
+    API_HASH = "f0f83c2fcef971f87561229e9097520e"
+    TOKEN = "1371309603:AAGdhAmr2p4T_3MfJwyI_jlmYtnuRhPb3nM"
     OWNER_ID = 978048105  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "Cyber_Ryuk"
-    SUPPORT_CHAT = '@Cyber_Movies'
+    OWNER_USERNAME = "@Arzoo_Official"
+    SUPPORT_CHAT = '@Tinder_Queens'
 
     #RECOMMENDED
 
     SQLALCHEMY_DATABASE_URI = 'something://somewhat:user@hosturl:port/databasename'  # needed for any database modules
-    MESSAGE_DUMP = -1001253661229  # needed to make sure 'save from' messages persist
-    GBAN_LOGS = -1001190806654
+    MESSAGE_DUMP = -1001285990732  # needed to make sure 'save from' messages persist
+    GBAN_LOGS = -1001285990732
     LOAD = []
     NO_LOAD = ['rss', 'cleaner', 'connection', 'math']
     WEBHOOK = False
     URL = None
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
-    SPAMWATCH_SUPPORT_CHAT = "@Cyber_Movies"
+    SPAMWATCH_SUPPORT_CHAT = "@Tinder_Queens"
 
     #OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
