@@ -16,12 +16,12 @@
       "API_ID": {
          "description": "Get API_ID from my.telegram.org - this is used for telethon based modules.",
          "required": true,
-         "value": "1310191"
+         "value": "1272115"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org - this is used for telethon based modules.",
          "required": true,
-         "value": "40438602d2c66851baff5eb4dc5b08bc"
+         "value": "f0f83c2fcef971f87561229e9097520e"
       },
       "BAN_STICKER": {
          "description": "ID of the sticker you want to use when banning people.",
@@ -53,11 +53,11 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "978048105"
+         "value": "1200780834"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "Cyber_Ryuk"
+         "value": "@Arzoo_Official"
       },
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.)",
@@ -66,7 +66,7 @@
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
-         "value": "-1001300439833"
+         "value": "-1001285990732"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -88,27 +88,27 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1049081438"
+         "value": "1049081438 1089434386 797768146"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "1049081438"
+         "value": "1049081438 1089434386 797768146"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": ""
+         "value": "1049081438 1089434386 797768146"
       },
       "TOKEN": {
          "description": "Your bot token.",
          "required": true,
-         "value": "1036219889:AAER5umjdx1tcCb5oXdooNOZ68g2EKEokBM"
+         "value": "1371309603:AAGdhAmr2p4T_3MfJwyI_jlmYtnuRhPb3nM"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: @MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "@Cyber_Movies"
+         "value": "@Tinder_Queens"
       },   
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
