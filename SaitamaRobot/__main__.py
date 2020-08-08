@@ -26,9 +26,9 @@ Hi {}, my name is {}!
 I am an Anime themed group management bot.
 You can find my list of available commands with /help.
 
-im a group manager bot maintained by @GarimaQueen.
+im a group manager bot maintained by @GarimaQueen
 
-My future updates will be put into This Channel - @UPSTOCKWORLD & My Support Group @Tinder_Queens.
+My future updates will be put into This Channel - @UPSTOCKWORLD.
 
 For more commands click /help...
 
