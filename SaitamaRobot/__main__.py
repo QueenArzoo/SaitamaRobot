@@ -21,11 +21,20 @@ from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
 from telegram.utils.helpers import escape_markdown
 
 PM_START_TEXT = """
+
+
+┈┈┈┈╱▔▔▔▔╲┈┈┈┈
+┈┈┈▕▕╲┊┊╱▏▏┈┈┈
+┈┈┈▕▕▂╱╲▂▏▏┈┈┈
+┈┈┈┈╲┊┊┊┊╱┈┈┈┈
+┈┈┈┈▕╲▂▂╱▏┈┈┈┈
+╱▔▔▔▔┊┊┊┊▔▔▔▔╲
+
 Hi {}, my name is {}! 
 I am an Anime themed group management bot.
 You can find my list of available commands with /help.
 
-im a group manager bot maintained by @Arzoo_Official.
+im a group manager bot maintained by @GarimaQueen.
 
 My future updates will be put into This Channel - @UPSTOCKWORLD & My Support Group @Tinder_Queens.
 
