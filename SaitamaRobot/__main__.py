@@ -21,13 +21,26 @@ from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
 from telegram.utils.helpers import escape_markdown
 
 PM_START_TEXT = """
-Hi {}, my name is {}! 
-I am an Anime themed group management bot.
-You can find my list of available commands with /help.
 
-[Saitama's Repo](github.com/AnimeKaizoku/SaitamaRobot) 
-See [Basic Configuration Checklist](t.me/OnePunchUpdates/29) on how to secure your group.
-The support group chat is at {}.
+┈┈┈┈╱▔▔▔▔╲┈┈┈┈
+┈┈┈▕▕╲┊┊╱▏▏┈┈┈
+┈┈┈▕▕▂╱╲▂▏▏┈┈┈
+┈┈┈┈╲┊┊┊┊╱┈┈┈┈
+┈┈┈┈▕╲▂▂╱▏┈┈┈┈
+╱▔▔▔▔┊┊┊┊▔▔▔▔╲
+Hello {}, my name is {}! if you have any questions about how to use me please give me /help... 
+
+im a group manager bot maintained by  [this person](tg://user?id={}).
+
+My future updates will be put into This Channel - @UPSTOCKWORLD & My Support Group @Eaglehacker.
+
+This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/Shiv9711/Shizuka.git),
+you can create clone same like me..
+
+For more commands click /help...
+
+**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+
 """
 
 HELP_STRINGS = """
